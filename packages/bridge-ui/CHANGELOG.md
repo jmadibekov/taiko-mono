@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.17.1](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2.17.0...bridge-ui-v2.17.1) (2026-05-13)
+
+
+### Bug Fixes
+
+* **bridge-ui:** cleanup leftover env ([#21650](https://github.com/taikoxyz/taiko-mono/issues/21650)) ([2aecb4a](https://github.com/taikoxyz/taiko-mono/commit/2aecb4a0c68fcd54178c4f00b483dc455e32bd31))
+
 ## [2.17.0](https://github.com/taikoxyz/taiko-mono/compare/bridge-ui-v2.16.0...bridge-ui-v2.17.0) (2026-05-07)
 
 
